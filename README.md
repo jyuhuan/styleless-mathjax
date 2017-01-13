@@ -1,2 +1,3 @@
 # styleless-mathjax
-styleless-latex for MathJax
+
+[styleless-latex](https://github.com/jyuhuan/styleless-latex) for MathJax. 
